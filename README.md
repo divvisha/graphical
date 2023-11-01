@@ -87,7 +87,7 @@ public class MainActivity extends AppCompatActivity {
 
         //Creating the Paint Object and set its color & TextSize
         Paint paint = new Paint();
-        paint.setColor(Color.BLUE);
+        paint.setColor(Color.BLACK);
         paint.setTextSize(50);
 
         //To draw a Rectangle
@@ -109,9 +109,9 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ## OUTPUT
-![image](https://github.com/D-I-V-Y-A-S/Mobile-Application-Development/assets/141506417/f3a3c26a-b2e9-4dd1-86f4-ed49f0fc4798)
+<img width="624" alt="Screenshot 2023-11-01 111539" src="https://github.com/divvisha/graphical/assets/127508123/f829dee7-cc80-4fef-ae04-9fe55f3f2a43">
 
-![image](https://github.com/D-I-V-Y-A-S/Mobile-Application-Development/assets/141506417/cba9258c-6fe1-4bef-b9df-3abae95aec94)
+<img width="625" alt="Screenshot 2023-11-01 111607" src="https://github.com/divvisha/graphical/assets/127508123/e99ed538-28ea-4452-8bd2-9587d95ba0ec">
 
 
 
